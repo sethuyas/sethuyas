@@ -1,1 +1,131 @@
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>AMS Fish Shop</title>
+ <link rel="stylesheet" href="bootstrap/bootstrap.min.css">
+ <script src="bootstrap/bootstrap.min.js"></script>
+
+ <style>
+  body{
+    background-color: snow;
+  }
+
+  header {
+            background-color: #333;
+            color: #d624cd;
+            padding: 10px;
+            text-align: center;
+        }
+  nav{
+    background-color: #444;
+            padding: 10px;
+            text-align: center;
+  }
+  nav a {
+            color: #fff;
+            text-decoration: red;
+            margin: 0 50px;
+        }
+        nav a:hover {
+            text-decoration:unset;
+            color: aquamarine;
+          
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 1px;
+            text-align: center;
+        }
+        button{
+          font-size: 20px;
+          text-align: center;
+          border-radius: 12px; 
+          cursor: pointer;
+          color: blue; 
+          border: 10px;
+          padding: 10px 20px;
+          background-color: rgb(86, 241, 86);
+        }
+        button:hover{
+          box-shadow: 0px 0px 50px rgb(86, 241, 86);;
+        }
+ </style>
+</head>
+<body>
+ 
+   <center>
+<header>
+ <h1 >AMS FISH SHOP</h1></header>
+ <nav>
+  <a href="#">Home</a>
+  <a href="#">About</a>
+  <a href="#">Services</a>
+  <a href="#">Contact</a>
+</nav>
+
+ 
+   <H1> Sea and Dam fish are available in Whole Sale and Retail</H1>
+
+   <hr color="yellow">
+<i>
+  <h1><dt>FISH TYPES</dt></h1>
+  <h2><mark style="background-color: rosybrown;
+  color: blueviolet;"> MATHI | KATLA | ROGU | GILEBI | NEI MEEN | ROOT(parai) </mark></h2></i>
+
+<hr color="yellow">
+<hr color="yellow">
+
+<H1>WE ARE ALSO AVAILABLE ON JUSTDAIL</H1>
+<h1>
+   AMS FISH SHOP ON JUSTDAIL
+</a>
+
+</h1><a href="https://www.justdial.com/Pollachi/Ams-Fish-Shop-Wholesaleretail-Opposite-to-Krishna-Departmental-Store-Kottur/9999P4259-4259-171019132935-J1H7_BZDET">
+<button>Buy Now</button></a>
+
+<i><h1>FISH TYPES AVAILABLE ON JUSTDAIL</h1>
+  <h2>MATHI | KATLA | ROGU | GILEBI | NEI MEEN | ROOT(parai)</h2></i>
+
+<HR color="yellow">
+   <HR color="yellow">  
+   <div class="container"></div>
+      <div class="row">
+         <div class="col-md-6"> <link rel="stylesheet">
+            <h3>Click To Login</h3>
+            <a href="file:///E:/AMS/login%20page.html">
+            <button>Login </button></a>
+         </div>
+
+         <div  class="col-md-6" >
+           <h3>Click to Register</h3> 
+           <a href="file:///E:/AMS/register.html">
+               <button>Register</button></a>
+         </div>
+   </div> 
+
+      <footer>
+     <h2>Contact</h2> 
+     <H1>Phone | whats app</H1>
+       <h1>+91 986 596 1474</h1>
+       <h3 style="font-size: medium;" >Aaliyar Road, N.M.Sungam, Tamil Nadu 642007</h3>
+       <hr>
+       <div class="foot_lst">
+         <div class="container">
+             <div class="row">
+                 <div class="col-md-12">
+                     <h4 class="text-center">copyright © 2005 - 2024. All Rights Reserved.  AMS Fish Shop</h4>
+                 </div>
+             </div>
+         </div>
+     </div>
+    </footer>
+      </center>
+      
+     
+      </body>
+</html>
