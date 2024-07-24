@@ -1,1 +1,84 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <table border="2px" cellpadding="5px" cellspacing="5px" style="text-align: center;">
+        <th colspan="5">NAME LIST DATA</th>
+        <tr>
+            <th>S.NO</th>
+            <th>NAME</th>
+            <th rowspan="5">B<br>R<br>E<br>A<br>K<br>E</th>
+            <th>AGE</th>
+            <th>R.NO</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>sethu</td>
+            <td >22</td>
+            <td>01</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Martin</td>
+            <td>27</td>
+            <td>02</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Riyas</td>
+            <td>25</td>
+            <td>03</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Anbu</td>
+            <td>18</td>
+            <td>04</td>
+        </tr>
+    </table>
+    <ul type="circle">
+        <li>Item-1</li>
+        <li>Item-1</li>
+        <li>item-1</li>
+        <li>item-1</li>
+        <li>item-1</li>
+    </ul>
+    <ol type="I" >
+        <li>item-1</li>
+        <li>item-1</li>
+        <li>item-1</li>
+        <li>item-1</li>
+        <li>item-1</li>
+    </ol>
+<marquee color="blue" scrollamount="5" width="320px" bgcolor="red" behavior="alternate" direction="right">sethu</marquee>
+<br>
+<input type="date">
+<br>
+<textarea name=""setcharacter=></textarea>
+<br>
+<input type="radio" name="set">male
+<input type="radio" name="set">female
+<br>
+<input type="checkbox">I agree
+<h1>lorem</h1>
+<p><b>Sethu Pathi</b></p>
+
+
+<p>
+    <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non distinctio, debitis quibusdam voluptate ipsa laboriosam iusto ad officiis id optio 
+    cupiditate aliquid iure enim repudiandae obcaecati nisi. </span>Atque quisquam dolor dolores corporis voluptates, consequuntur veniam! Sint alias cumque ipsa porro, ea fuga inventore. 
+    Corporis, eius rem eum dolore nihil consectetur culpa labore provident fuga velit, asperiores nulla ab error nam nemo facere sequi possimus repellat temporibus accusamus aliquam recusandae! 
+    Accusantium nostrum officiis quisquam sequi quo nobis est delectus itaque modi a soluta assumenda molestias perferendis aliquid quod libero sint atque nisi, eligendi debitis? Totam, omnis iusto? 
+    Incidunt unde ab saepe commodi animi atque debitis expedita consequatur, a harum nihil qui vitae adipisci, aut excepturi sunt, et velit dolore alias est. Possimus animi amet facere maxime 
+    exercitationem odit iure sequi illum voluptatibus ex a commodi dignissimos nemo, porro reprehenderit voluptatum accusamus recusandae error molestias pariatur totam fugiat. Rerum fugiat nihil, error 
+    reiciendis quas porro id at vel hic, voluptas, doloribus unde ea molestias dolore animi. Ab assumenda distinctio quia qui rerum voluptatibus, incidunt vero expedita, repellendus quos eius impedit esse commodi 
+    laudantium quae earum, est aspernatur voluptatem atque quasi. Porro modi, incidunt praesentium ducimus commodi distinctio autem sint omnis et culpa?
+</p>
+</body>
+</html>
